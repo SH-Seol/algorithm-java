@@ -2,7 +2,7 @@ package bj.bf;
 
 import java.util.Scanner;
 
-public class BJ1065 {
+public class BOJ1065 {
     static int n;
     static int result;
     public static void main(String[] args) {

@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /*
 LCS 문제
  */
-public class BJ9251 {
+public class BOJ9251 {
     static int[][] lcs;
     static char[] first;
     static char[] second;

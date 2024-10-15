@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class BJ1912 {
+public class BOJ1912 {
     static int[] arr;
     static int[] memo;
     static int[] tmp;

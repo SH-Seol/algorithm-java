@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 /*
 knapsack 문제
  */
-public class BJ12865 {
+public class BOJ12865 {
     static int m;
     static int n;
     static int[][] bag;

@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BJ7576 {
+public class BOJ7576 {
     static int[] dx = {1, -1, 0, 0};
     static int[] dy = {0, 0, -1, 1};
     static int[][] maps;

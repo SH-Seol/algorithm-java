@@ -16,6 +16,7 @@ Greedy: Greedy
 Impl: 구현
 Srt: Sort, 정렬
 SQL: sql 문제, 그 안에 카테고리는 그 이후에 남긴다.
+BT: Back Tracking
 (기타 추가 예정)
 
 이후는 백준은 문제 번호와 문제이름을, 프로그래머스는 문제이름을 적습니다.

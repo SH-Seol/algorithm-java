@@ -1,4 +1,4 @@
-package programmers.implement;
+package programmers.implement.mbtisomething;
 
 public class Solution {
     public String solution(String[] survey, int[] choices) {
